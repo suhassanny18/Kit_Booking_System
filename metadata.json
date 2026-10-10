@@ -1,0 +1,6 @@
+{
+  "name": "Kit Booking System",
+  "description": "Production LLD implementation of a time-slotted camera equipment rental marketplace with state machine lifecycle, 20% advance payment, CoR validation, and demo clock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
